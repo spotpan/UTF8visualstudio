@@ -1,0 +1,3 @@
+﻿  main.cpp
+LINK : warning LNK4076: 增量状态文件“C:\Users\yb960\Desktop\UTF8converter\Debug\UTF8converter.ilk”无效(将删除)；正以非增量方式链接
+  UTF8converter.vcxproj -> C:\Users\yb960\Desktop\UTF8converter\Debug\UTF8converter.exe
