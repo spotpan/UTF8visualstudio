@@ -1,4 +1,4 @@
-﻿中文Original by Markus Kuhn, adapted for HTML by Martin Dürst.
+﻿Original by Markus Kuhn, adapted for HTML by Martin Dürst.
 
 UTF-8 encoded sample plain-text file
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
